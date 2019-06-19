@@ -24,10 +24,27 @@
     100% { -webkit-transform: rotate(360deg); }
 }
 
-
-
-
 /*My Styling */
+.body-text{
+    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 21px;
+    font-weight: 300;
+    line-height: 1.4;
+}
+.center{
+    margin:0 auto;
+}
+.vertical-align-center{
+    float:none;
+    display:inline-block;
+    vertical-align: middle;
+    margin-top:15%;
+
+}
+.padding{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
 .ulSkills{
     font-size: 3em;
 }
